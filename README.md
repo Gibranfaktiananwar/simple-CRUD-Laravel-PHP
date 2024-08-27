@@ -1,5 +1,10 @@
 Simple CrUD Laravel PHP
 
+menggunakan :
+- php 8.2.4
+- node 20.11.1
+
+
 how to run : 
 1. npm install
 2. composer install
