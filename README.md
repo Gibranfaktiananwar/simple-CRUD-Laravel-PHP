@@ -1,9 +1,10 @@
 Simple CrUD Laravel PHP
 
 how to run : 
-
-1. npm run dev
-2. php artisan serve
+1. npm install
+2. composer install
+3. npm run dev
+4. php artisan serve
 
 
 
