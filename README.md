@@ -8,8 +8,9 @@ menggunakan :
 how to run : 
 1. npm install
 2. composer install
-3. npm run dev
-4. php artisan serve
+3. run php artisan migrate:refresh --seed
+4. npm run dev
+5. php artisan serve
 
 
 
